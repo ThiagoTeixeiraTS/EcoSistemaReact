@@ -1,7 +1,4 @@
-### Getting Started with Create React App
-
-Este repositorio foi criado para treinar e consolidar alguns conceitos do React como :
-
+### Este repositorio foi criado para treinar e consolidar alguns conceitos do React como :
 
 *Adicionar comportamento ao componente para manipular o estado.
 
